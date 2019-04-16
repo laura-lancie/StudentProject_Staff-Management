@@ -13,7 +13,7 @@ After downloading, simply edit the Java files included with the template in your
 This is a student project for creating a staff management system 
 
 This Project was created by and is maintained by **[Laura Atkin](http://laurakatkin.co.uk/)**
-* http://laurakatkin.co.uk
+* http://laurakatkin.com
 * https://twitter.com/laura_lancie
 * https://github.com/laura-lancie
 
